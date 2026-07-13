@@ -30,5 +30,6 @@ plotted on custom Seaborn heatmaps, ensuring zero data corruption or missing ele
 
 
 📈 Model Evaluation
+
 Statistical evaluations, including a 2x2 Confusion Matrix (mapping true/false positives and negatives) and an ROC Curve 
 (measuring macro-level discriminative power across variable decision thresholds), are exported directly upon pipeline execution into `model_evaluation_plots.png`.
