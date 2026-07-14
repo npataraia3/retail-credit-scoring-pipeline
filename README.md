@@ -11,8 +11,7 @@ This repository contains a production-ready credit scoring pipeline designed to 
 📊 Performance Metrics & Business Alignment
 
 - Overall Model Accuracy: 72.00%
-- Primary Optimization Focus (Recall for Class 0): In credit underwriting, the cost of a False Negative   
-(approving a high-risk applicant who subsequently defaults) exponentially outweighs the opportunity cost of a False Positive (wrongfully rejecting a low-risk applicant). Therefore, this architecture prioritizes the optimization of recall for the defaultclass (0), giving risk managers tighter control over portfolio asset quality.
+- Primary Optimization Focus (Recall for Class 0): In credit underwriting, the cost of a False Negative (approving a high-risk applicant who subsequently defaults) exponentially outweighs the opportunity cost of a False Positive (wrongfully rejecting a low-risk applicant). Therefore, this architecture prioritizes the optimization of recall for the defaultclass (0), giving risk managers tighter control over portfolio asset quality.
 
 
 
